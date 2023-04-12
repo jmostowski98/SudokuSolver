@@ -1,6 +1,6 @@
 # SudokuSolver
 This is simple sudoku solver.
-I'm currentyly working on code to also have a function that detects the sudoku board and solve it.
+I'm currently working on code to also have a function that detects the sudoku board and solve it.
 
 
 ## Table of contents
